@@ -1,2 +1,2 @@
-#ligaciputat
+# ligaciputat
 # klasemen-news
